@@ -1,0 +1,28 @@
+title: HS PANDHER
+description: Random views on programming and software craftsmanship
+
+url: https://github.com/hspandher
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   github: hspandher
+   twitter: hspandher1
+   facebook: hakampreet.pandher
+   email: hspandher@outlook.com
+
+google_analytics: "UA-58263416-1"
