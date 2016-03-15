@@ -3,4 +3,4 @@
 	url = https://github.com/xdissent/jekyll-rst.git
 [submodule "_site"]
 	path = _site
-	url = https://github.com/hspandher/blog-static.git
+	url = ssh://56e8438c0c1e662175000035@hspandher-pandher.rhcloud.com/~/git/hspandher.git/
