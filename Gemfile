@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+ruby '2.0.0'
+
+gem 'jekyll'
+gem 'susy'
+gem 'normalize-scss'
+gem 'listen', '3.0.0'
+gem 'jekyll-paginate'
+gem 'RbST'
+gem 'jekyll-haml'
